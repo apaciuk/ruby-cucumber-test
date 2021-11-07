@@ -13,3 +13,5 @@ gem 'capybara', '~> 3.36'
 gem 'bundler', '~> 2.2'
 
 gem 'gherkin', '~> 5.1'
+
+gem "pry", "~> 0.14.1"

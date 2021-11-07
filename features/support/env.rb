@@ -28,3 +28,5 @@ Capybara.register_driver :selenium do |app|
   end
   Capybara.default_driver = :chrome
   Capybara.default_selector = :css
+ CUCUMBER_PUBLISH_ENABLED=true
+
